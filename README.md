@@ -1,5 +1,5 @@
 # Person-Management-BackEnd
-Person Management Project User Interface
+Person Management Project User Interface -- In migration folder you will find the database model script
 Admin Account:
 Username: tjones
 Password: Admin123
